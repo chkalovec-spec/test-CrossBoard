@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test-CrossBoard/static/css/main.34e0d791.chunk.css",
+    "main.js": "/test-CrossBoard/static/js/main.0398cd0a.chunk.js",
+    "main.js.map": "/test-CrossBoard/static/js/main.0398cd0a.chunk.js.map",
+    "runtime-main.js": "/test-CrossBoard/static/js/runtime-main.8d25c0df.js",
+    "runtime-main.js.map": "/test-CrossBoard/static/js/runtime-main.8d25c0df.js.map",
+    "static/js/2.c110ba7d.chunk.js": "/test-CrossBoard/static/js/2.c110ba7d.chunk.js",
+    "static/js/2.c110ba7d.chunk.js.map": "/test-CrossBoard/static/js/2.c110ba7d.chunk.js.map",
+    "index.html": "/test-CrossBoard/index.html",
+    "static/css/main.34e0d791.chunk.css.map": "/test-CrossBoard/static/css/main.34e0d791.chunk.css.map",
+    "static/js/2.c110ba7d.chunk.js.LICENSE.txt": "/test-CrossBoard/static/js/2.c110ba7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d25c0df.js",
+    "static/js/2.c110ba7d.chunk.js",
+    "static/css/main.34e0d791.chunk.css",
+    "static/js/main.0398cd0a.chunk.js"
+  ]
+}
